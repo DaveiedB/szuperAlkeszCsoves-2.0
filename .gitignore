@@ -1,0 +1,14 @@
+# Csomagolt resource pack fájlok
+*.zip
+
+# Windows / macOS rendszerfájlok
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Szerkesztői ideiglenes fájlok
+*.bak
+*.tmp
+*~
+*.xcf
+*.psd
