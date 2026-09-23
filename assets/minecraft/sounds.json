@@ -4,5 +4,23 @@
     "sounds": [
       { "name": "music/menu/fomenu", "stream": true }
     ]
-  }
+  },
+  "music.game": {
+    "replace": false,
+    "sounds": [
+      { "name": "music/game/ariamathphonk", "stream": true, "weight": 15 },
+      { "name": "music/game/revenge", "stream": true, "weight": 15 },
+      { "name": "music/game/fallenkingdom", "stream": true, "weight": 15 }
+    ]
+  },
+  "entity.creeper.primed": {
+  "replace": true,
+  "subtitle": "subtitles.entity.creeper.primed",
+  "sounds": [
+    { "name": "custom/creeper/fuse1", "pitch": 1.8 },
+    { "name": "custom/creeper/fuse1", "pitch": 2.0 },
+    { "name": "custom/creeper/fuse1", "pitch": 2.1 },
+    { "name": "custom/creeper/fuse1", "pitch": 2.2 }
+  ]
+}
 }
