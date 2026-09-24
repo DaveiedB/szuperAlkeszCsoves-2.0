@@ -32,8 +32,8 @@
     "replace": true,
     "subtitle": "subtitles.entity.minecart.riding",
     "sounds": [
-      { "name": "minecart/sajat/kint_1", "weight": 1 },
-      { "name": "minecart/sajat/kint_2", "weight": 1 }
+      { "name": "minecart/sajat/kint1", "weight": 1 },
+      { "name": "minecart/sajat/kint2", "weight": 1 }
     ]
   }
 }
