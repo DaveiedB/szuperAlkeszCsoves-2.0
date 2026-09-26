@@ -3,5 +3,12 @@
     "description": "VISSZATÉRTEM!4!4!",
     "min_format": 88,
     "max_format": 97.1
+  },
+  "language": {
+    "koz_hu": {
+      "name": "Közbelépjek?",
+      "region": "Hunglish",
+      "bidirectional": false
+    }
   }
 }
