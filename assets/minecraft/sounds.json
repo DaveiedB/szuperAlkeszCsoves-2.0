@@ -2,7 +2,7 @@
   "music.menu": {
     "replace": true,
     "sounds": [
-      { "name": "music/menu/fomenu", "stream": true }
+      { "name": "music/menu/vaciborton", "stream": true }
     ]
   },
   "music.game": {
